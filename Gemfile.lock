@@ -96,6 +96,7 @@ PLATFORMS
 DEPENDENCIES
   figaro
   foreman
+  json
   pry
   puma
   rack-test

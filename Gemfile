@@ -1,9 +1,11 @@
 source 'http://rubygems.org'
+
 gem 'figaro'
 gem 'slack-ruby-bot'
 gem 'puma'
 gem 'sinatra'
 gem 'pry'
+gem 'json'
 
 group :development, :test do
   gem 'rake'
